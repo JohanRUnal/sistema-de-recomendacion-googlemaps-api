@@ -7,7 +7,7 @@ En este proyecto construiremos un sistema de recomendación del tipo *Content ba
 El proyecto lo dividimos en dos etapas.
 
 ###  Obtención y  preparación de los datos:
- Los datos son obtenidos atraves de la API de GoogleMaps y para su posterior *preprocesamiento* de manera que esten listos para que sean consumidos por nuestro sistema de recomendación.
+ Los datos son obtenidos atraves de la API de GoogleMaps  para su posterior *preprocesamiento* de manera que esten listos para que sean consumidos por nuestro sistema de recomendación.
 ###  Construcción sistema de recomendación: 
 Construiremos nuestro *Content base recommendation System* , que use las puntuaciones de un usuario asignada a sitios visitados previamente, para que con base en ellas arroje una lista de sugerencias de sitios con un contenido similar , los cuales podrian ser de interés dentro de un radio establecido de acuerdo a la ubicación del usuario.
 
